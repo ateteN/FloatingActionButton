@@ -33,13 +33,12 @@ Prerequisites:
 git clone https://github.com/your-username/expandable-fab-demo.git
 cd floactingactionbutton
 
-2. Get dependencies (none needed, uses only Flutter core)
-flutter pub get
+2. Get dependencies with     flutter pub get
 
-3. Run the app
-flutter run
+3. Run the app using     flutter run
 
 **You can also paste main.dart directly into DartPad and run it in the browser with no setup required.**
+
 
 ## Real-World Usage
 The Expandable FAB pattern is used in many well-known apps:
